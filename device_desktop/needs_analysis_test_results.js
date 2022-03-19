@@ -1,0 +1,12 @@
+DesktopResponsive={"1009":{
+"pageLayer":{"w":1009,"h":800,"bgColor":"#ffffff"}
+,
+"other258816":{"x":50,"y":150,"w":900,"h":550,"bOffBottom":0}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){other258816.growPage();}
+,"preload":[]
+}}
